@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516834262421",
+    "project_id": "regal-aura",
+    "storage_bucket": "regal-aura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516834262421:android:979a8225066cfb339e4a9c",
+        "android_client_info": {
+          "package_name": "air.net.ideasam.games.ca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516834262421-sg8uc6l8ir7b5h5mh6vm958huelp3at3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVZUQPgQXO1zThQjStgIDnM7cc4oLG9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516834262421-sg8uc6l8ir7b5h5mh6vm958huelp3at3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
